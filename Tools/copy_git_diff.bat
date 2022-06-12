@@ -1,6 +1,6 @@
 @echo off
 @rem 日本語使うなら文字コードは Shift-JIS に
-@rem xcopy は/じゃなくて\でないとダメらしい(1敗)
+@rem xcopy は"/"じゃなくて"\"でないとダメらしい(1敗)
 setlocal EnableDelayedExpansion
 cd %1
 
