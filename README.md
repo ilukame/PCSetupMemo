@@ -17,6 +17,7 @@
 - CLIP STUDIO
 - Android Studio
 - spwave
+- WinMerge
 
 ## やること
 PCライフを快適に過ごそう。
